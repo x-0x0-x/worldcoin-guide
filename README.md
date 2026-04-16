@@ -13,7 +13,7 @@ If you are setting up the **World App** for the first time, use the verified ref
 
 - **Referral Code:** `EIUR31H`
 - **Download Link:** [https://join.world.org/EIUR31H](https://join.world.org/EIUR31H)
-- **Official Documentation:** [https://0v.notion.site/world](https://0v.notion.site/world)
+- **Official Documentation:** [https://0v0.vip/world](https://0v0.vip/world)
 
 ---
 
@@ -41,11 +41,11 @@ Once verified, you are eligible for periodic WLD token grants.
 
 ## 📖 Multi-Language Support (SEO)
 
-To help the global community, detailed guides are available in several languages on our [Notion Portal](https://0v.notion.site/world):
+To help the global community, detailed guides are available in several languages on our [Notion Portal](https://0v0.vip/world):
 
-- **English:** [Ultimate Worldcoin Guide 2026](https://0v.notion.site/world)
-- **日本語:** [ワールドコイン Orb 認証完全ガイド](https://0v.notion.site/world)
-- **繁體中文:** [Worldcoin 全球註冊與 Orb 驗證教學](https://0v.notion.site/world)
+- **English:** [Ultimate Worldcoin Guide 2026](https://0v0.vip/world)
+- **日本語:** [ワールドコイン Orb 認証完全ガイド](https://0v0.vip/world)
+- **繁體中文:** [Worldcoin 全球註冊與 Orb 驗證教學](https://0v0.vip/world)
 
 ---
 
@@ -53,7 +53,7 @@ To help the global community, detailed guides are available in several languages
 If you encounter the "Verification Pending" loop or "Orb Connection Timeout" issue:
 1. Ensure your World App is updated to the latest version.
 2. Check the [Worldcoin Status Page](https://status.worldcoin.org/).
-3. Refer to my Notion guide for [advanced troubleshooting steps](https://0v.notion.site/world).
+3. Refer to my Notion guide for [advanced troubleshooting steps](https://0v0.vip/world).
 
 ---
 
