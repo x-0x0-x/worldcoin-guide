@@ -12,7 +12,7 @@ This repository provides a comprehensive technical walkthrough for the Worldcoin
 If you are setting up the **World App** for the first time, use the verified referral code to unlock initial bonuses and grant eligibility.
 
 - **Referral Code:** `EIUR31H`
-- **Download Link:** [https://join.world.org/EIUR31H](https://join.world.org/EIUR31H)
+- **Invite Link:** [https://join.world.org/EIUR31H](https://join.world.org/EIUR31H)
 - **Official Documentation:** [https://0x0.vip/world](https://0x0.vip/world)
 
 ---
