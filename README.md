@@ -13,7 +13,7 @@ If you are setting up the **World App** for the first time, use the verified ref
 
 - **Referral Code:** `EIUR31H`
 - **Download Link:** [https://join.world.org/EIUR31H](https://join.world.org/EIUR31H)
-- **Official Documentation:** [https://0v0.vip/world](https://0v0.vip/world)
+- **Official Documentation:** [https://0x0.vip/world](https://0x0.vip/world)
 
 ---
 
@@ -41,11 +41,11 @@ Once verified, you are eligible for periodic WLD token grants.
 
 ## 📖 Multi-Language Support (SEO)
 
-To help the global community, detailed guides are available in several languages on our [Notion Portal](https://0v0.vip/world):
+To help the global community, detailed guides are available in several languages on our [Notion Portal](https://0x0.vip/world):
 
-- **English:** [Ultimate Worldcoin Guide 2026](https://0v0.vip/world)
-- **日本語:** [ワールドコイン Orb 認証完全ガイド](https://0v0.vip/world)
-- **繁體中文:** [Worldcoin 全球註冊與 Orb 驗證教學](https://0v0.vip/world)
+- **English:** [Ultimate Worldcoin Guide 2026](https://0x0.vip/world)
+- **日本語:** [ワールドコイン Orb 認証完全ガイド](https://0x0.vip/world)
+- **繁體中文:** [Worldcoin 全球註冊與 Orb 驗證教學](https://0x0.vip/world)
 
 ---
 
@@ -53,11 +53,18 @@ To help the global community, detailed guides are available in several languages
 If you encounter the "Verification Pending" loop or "Orb Connection Timeout" issue:
 1. Ensure your World App is updated to the latest version.
 2. Check the [Worldcoin Status Page](https://status.worldcoin.org/).
-3. Refer to my Notion guide for [advanced troubleshooting steps](https://0v0.vip/world).
+3. Refer to my Notion guide for [advanced troubleshooting steps](https://0x0.vip/world).
 
 ---
 
 ## 🛡 Disclaimer
 This guide is for educational purposes only. Cryptocurrency involves risk. Ensure you understand the privacy policies before performing biometric verification.
 
-Developed and maintained by **0x0** (Visit: [0v0.vip](https://0v0.vip))
+Developed and maintained by **0x0** (Visit: [0x0.vip](https://0x0.vip))
+
+---
+### 🔗 Quick Access
+- **Official Guide:** [0x0.vip/world](https://0x0.vip/world)
+- **Mirror Link:** [0v0.vip/world](https://0v0.vip/world)
+
+*If the official guide is unavailable, please use the mirror link for uninterrupted access.*
